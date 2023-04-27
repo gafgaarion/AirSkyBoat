@@ -36829,12 +36829,12 @@ INSERT INTO `item_mods` VALUES (18162,501,100);  -- ITEM_ADDEFFECT_CHANCE: 100
 
 -- Zephyr
 INSERT INTO `item_mods` VALUES (18163,431,17);   -- ITEM_ADDEFFECT_TYPE: 17
-INSERT INTO `item_mods` VALUES (18163,1178,277); -- ITEM_ADDEFFECT_OPTION: 278 (Seiryu, https://ffxiclopedia.fandom.com/wiki/Zephyr)
+INSERT INTO `item_mods` VALUES (18163,1178,278); -- ITEM_ADDEFFECT_OPTION: 278 (Seiryu, https://ffxiclopedia.fandom.com/wiki/Zephyr)
 INSERT INTO `item_mods` VALUES (18163,501,100);  -- ITEM_ADDEFFECT_CHANCE: 100
 
 -- Antarctic Wind
 INSERT INTO `item_mods` VALUES (18164,431,17);   -- ITEM_ADDEFFECT_TYPE: 17
-INSERT INTO `item_mods` VALUES (18164,1178,278); -- ITEM_ADDEFFECT_OPTION: 277 (Genbu, https://ffxiclopedia.fandom.com/wiki/Antarctic_Wind)
+INSERT INTO `item_mods` VALUES (18164,1178,277); -- ITEM_ADDEFFECT_OPTION: 277 (Genbu, https://ffxiclopedia.fandom.com/wiki/Antarctic_Wind)
 INSERT INTO `item_mods` VALUES (18164,501,100);  -- ITEM_ADDEFFECT_CHANCE: 100
 
 -- Happy Egg
